@@ -1,0 +1,96 @@
+{
+    "game_id": "kansas_duke_test",
+    "team_a_name": "Kansas",
+    "team_b_name": "Duke",
+    "camera_id": "cam_a_sideline",
+    "team_a_players": [
+        {
+            "name": "Kansas #0",
+            "jersey": "0"
+        },
+        {
+            "name": "Kansas #1",
+            "jersey": "1"
+        },
+        {
+            "name": "Kansas #3",
+            "jersey": "3"
+        },
+        {
+            "name": "Kansas #5",
+            "jersey": "5"
+        },
+        {
+            "name": "Kansas #10",
+            "jersey": "10"
+        },
+        {
+            "name": "Kansas #11",
+            "jersey": "11"
+        },
+        {
+            "name": "Kansas #12",
+            "jersey": "12"
+        },
+        {
+            "name": "Kansas #13",
+            "jersey": "13"
+        },
+        {
+            "name": "Kansas #14",
+            "jersey": "14"
+        },
+        {
+            "name": "Kansas #15",
+            "jersey": "15"
+        }
+    ],
+    "team_b_players": [
+        {
+            "name": "Duke #0",
+            "jersey": "0"
+        },
+        {
+            "name": "Duke #1",
+            "jersey": "1"
+        },
+        {
+            "name": "Duke #2",
+            "jersey": "2"
+        },
+        {
+            "name": "Duke #3",
+            "jersey": "3"
+        },
+        {
+            "name": "Duke #5",
+            "jersey": "5"
+        },
+        {
+            "name": "Duke #10",
+            "jersey": "10"
+        },
+        {
+            "name": "Duke #11",
+            "jersey": "11"
+        },
+        {
+            "name": "Duke #12",
+            "jersey": "12"
+        },
+        {
+            "name": "Duke #13",
+            "jersey": "13"
+        },
+        {
+            "name": "Duke #14",
+            "jersey": "14"
+        },
+        {
+            "name": "Duke #15",
+            "jersey": "15"
+        }
+    ],
+    "team_a_headshots_dir": "",
+    "notes": "Test config for Kansas vs Duke clip"
+}

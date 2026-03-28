@@ -1,0 +1,16 @@
+Game: test_game_001
+Camera: cam_a_sideline
+Score: Our Team 0 - Opponents 0
+
+Top scorers:
+- Duke #12 (Opponents): 2 pts
+- Kansas #10 (Our Team): 2 pts
+- Duke #0 (Opponents): 0 pts
+- Duke #1 (Opponents): 0 pts
+- Duke #3 (Opponents): 0 pts
+
+Last 5 events:
+- 00:14 | Duke | 2pt_make | Duke #12
+- 00:45 | Kansas | 2pt_miss | Kansas #11
+- 00:47 | Duke | rebound_def | Duke #12
+- 00:53 | Kansas | 2pt_make | Kansas #10

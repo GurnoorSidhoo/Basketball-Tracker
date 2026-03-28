@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.zip
+*.mp4
+runs/outputs/
+runs/incoming_segments/

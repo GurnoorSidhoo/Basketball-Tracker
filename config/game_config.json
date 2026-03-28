@@ -1,0 +1,22 @@
+{
+  "game_id": "test_game_001",
+  "team_a_name": "Our Team",
+  "team_b_name": "Opponents",
+  "camera_id": "cam_a_sideline",
+  "team_a_players": [
+    { "name": "Player 1", "jersey": "1" },
+    { "name": "Player 2", "jersey": "2" },
+    { "name": "Player 3", "jersey": "3" },
+    { "name": "Player 4", "jersey": "4" },
+    { "name": "Player 5", "jersey": "5" }
+  ],
+  "team_b_players": [
+    { "name": "Opp 1", "jersey": "1" },
+    { "name": "Opp 2", "jersey": "2" },
+    { "name": "Opp 3", "jersey": "3" },
+    { "name": "Opp 4", "jersey": "4" },
+    { "name": "Opp 5", "jersey": "5" }
+  ],
+  "team_a_headshots_dir": "",
+  "notes": "Minimal config for smoke test"
+}
